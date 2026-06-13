@@ -168,6 +168,10 @@ Interactive Postman Documentation:
 
 https://documenter.getpostman.com/view/46688304/2sBXwsMqXe
 
+## Demo
+<img width="1670" height="897" alt="image" src="https://github.com/user-attachments/assets/4c74cd06-a1ea-401c-b442-ae28df901197" />
+
+
 ### Import Collection
 
 1. Open Postman
@@ -241,7 +245,7 @@ Request Body:
 
 ---
 
-## 💸 Wallet APIs
+## Wallet APIs
 
 ### Add Money
 
